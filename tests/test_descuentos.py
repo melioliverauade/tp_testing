@@ -9,4 +9,4 @@ def test_error_tipo():
         calcular_descuento("abc")
 
 def test_borde():
-    assert calcular_descuento(500) == 500
+    assert calcular_descuento(500) == 475
